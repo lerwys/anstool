@@ -1,0 +1,10 @@
+# Text editors swap/temporary files
+*~
+*.swp
+*.orig
+*.bak
+*tags
+
+# Rust files
+/target
+**/*.rs.bk
